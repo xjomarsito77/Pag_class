@@ -1,0 +1,224 @@
+header {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #000000;
+    height: 60px;
+    width: auto;
+    align-content: space-around;
+    
+}
+input{
+    margin-left: 10px;
+    margin-top: 3px;
+    width: 690px;
+    border: none;
+    outline: none;
+}
+body{
+    align-content: center;
+
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    display: flex;
+    align-items: center
+}
+
+.Icono{
+    width: 20px;
+    height: 20px;
+    margin: 30px;
+}
+.main{
+    display: flex;
+   
+}
+
+.title{
+    margin-left: 76px;
+    display: flex;
+    gap: 77px;
+    
+}
+
+.url{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    text-decoration: none
+}
+
+.mas {
+    height: 25px;
+    width: 25px;
+    display: flex;
+    gap: 35px;
+    margin-left: 400px;
+    align-items: center;
+}
+.app{
+    height: 25px;
+    width: 25px;
+}
+.cuenta{
+    height: 30px;
+    width: 30px;
+}
+
+.img{
+    width: 700px;
+    height: 200px;
+}
+
+.card{
+    display: flex;
+    justify-content: center
+}
+
+.url{
+    color: #575656;
+
+}
+
+
+.card-header {
+    width: 999px;
+    height: 230px;
+    border-radius: 10px;
+    display: flex;
+    background-color: rgb(168, 165, 165);
+    align-items: flex-end;
+    
+ }
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    margin-left: 15px;
+    
+}
+
+
+body{
+    align-content: center;
+}
+
+.carta-header{
+    width: 196px;
+    height: 170px;
+    border-radius: 12px;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin-left: 260px;
+    border:1px solid #ccc;
+}
+
+.letra{
+    display: flex;
+    margin-left: 18px;
+}
+.inf{
+    display: flex;
+    margin-left: 12px;
+    color: #818181;
+    align-items: flex-end;
+}
+
+.boton{
+    display: flex;
+    margin-right: 10px;
+    justify-content: flex-end
+}
+.card2{
+    display: flex;
+}
+
+.carta{
+    width: 773px;
+    height: 75px;
+    border-radius: 12px;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    border: 1px solid #ccc;
+    align-items: center;
+    
+}
+
+.si{
+    display: flex;
+    align-items: center;
+}
+.gillet{
+    margin-left: 22px;
+    height: 35px;
+    width: 35px;
+}
+.inf{
+    display: flex;
+    margin-left: 12px;
+    color: #818181;
+}
+
+.cartica{
+    width: 773px;
+    height: 75px;
+    border-radius: 12px;
+    display: grid;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    border: 1px solid #ccc;
+    align-items: center;
+    margin-left: 480px;
+   margin-top: -75px;
+}
+
+.no{
+    display: flex;
+    align-items: center;
+}
+
+.carta-final{
+    width: 773px;
+    height: 75px;
+    border-radius: 12px;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin-left: 260px;
+    border:1px solid #ccc;
+    margin-left: 480px;
+}
+.info{
+    display: flex;
+    margin-left: 12px;
+    color: #818181;
+    display: flex;
+    margin-left: 18px;
+}
+.gigi{
+    margin-left: 22px;
+    height: 35px;
+    width: 35px;
+    display: block;
+}
+.carta:hover, .cartica:hover, .carta-final:hover{
+    -webkit-box-shadow: 3px 3px 6px #D8D8D8;
+    -moz-box-shadow: 3px 3px 6px #D8D8D8;
+}
+
+.tres{
+    height: 22px;
+    width: 22px;
+    display: flex;
+    margin-left: 315px;
+}
+.tresp{
+    display: flex;
+}
+
+

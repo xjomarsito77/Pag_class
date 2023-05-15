@@ -1,0 +1,257 @@
+.container {
+    padding: 20px;
+    display: grid;
+    grid-gap: 30px 30px;
+    grid-template-columns: repeat(4, 300px);
+    text-overflow: ellipsis;
+}
+
+a {
+    color: black;
+    font-size: 13px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    margin-top: 0px;
+    text-decoration: none;
+}
+
+.card {
+    width: 300px;
+    height: 294px;
+    background: white;
+    border-radius: 10px;
+    border-width: 1px solid;
+    border: 1px solid #ccc;
+}
+
+.card:hover {
+    -webkit-box-shadow: 3px 3px 6px #D8D8D8;
+    -moz-box-shadow: 3px 3px 6px #D8D8D8;
+}
+
+.card-header {
+    width: 300px;
+    height: 100px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+    background-color: black;
+
+
+}
+
+.card-header .course {
+    margin: 0 -0.25rem;
+    padding: 0 0.25rem;
+    text-align: left;
+
+}
+
+
+
+.card-header .course .title {
+    width: 228px;
+    font-family: 'Google Sans', Roboto, Arial, sans-serif;
+    font-size: 1.375rem;
+    font-weight: 400;
+    line-height: 1.75rem;
+    color: #fff;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+    padding-left: 12px;
+    
+}
+
+.teacher-name {
+    color: #fff;
+    display: block;
+    text-overflow: ellipsis;
+    width: 210px;
+    padding-left: 12px;
+    font-size: 13px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
+.card-body {
+    width: 300px;
+    height: 137px;
+    border-bottom: 1px solid #ccc;
+
+}
+
+.card-body-container {
+    padding: 12px 16px 16px;
+}
+
+.card-body .card-body-container .photo {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    float: right;
+    position: relative;
+    margin-top: -3.09375rem;
+}
+
+.card-body .card-body-container h2 {
+    margin-top: 0px;
+    font-size: 13px;
+    color: #566573;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.card-footer {
+    display: flex;
+    width: 300px;
+    height: 57px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.card-footer .courseIcon {
+    border-radius: 50%;
+    float: right;
+    width: 18px;
+    height: 18px;
+    margin-top: 1.09375rem;
+
+}
+
+.card-footer .filesIcon {
+    border-radius: 50%;
+
+    float: right;
+    width: 18px;
+    height: 18px;
+    margin-top: 1.09375rem;
+
+}
+
+.title {
+    color: black;
+    font-size: 13px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    margin-top: 0px;
+    text-decoration: none;
+    
+}
+
+.menu {
+    display: flex;
+}
+
+.Icon {
+    width: 30px;
+    height: 30px;
+    margin: 30px;
+}
+
+.google {
+    display: flex;
+
+}
+
+.goo {
+    display: flex;
+    width: 94px;
+    height: 94px;
+}
+
+.clasr {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    display: flex;
+    align-items: center
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px  solid #000000 ; 
+    height: 45px;
+    width: auto;
+}
+
+.mas {
+    height: 25px;
+    width: 25px;
+    display: flex;
+    gap: 35px;
+    margin-right: 150px;
+    
+}
+
+.ola {
+    height: 28px;
+    width: 28px;
+}
+.bottones{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.bot{
+    height: 28px;
+    width: 28px;
+}
+.url{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    display: flex;
+    align-items: center
+}
+.put{
+    display: flex;
+    align-items: flex-end;
+    margin-left: 10px;
+}
+
+.dual{
+    height: 30px;
+    width: 30px;
+}
+
+.chulo{
+display: flex;
+margin-right: 10px;
+}
+
+.carpet2{
+    display: flex;
+    margin-right: 10px;
+}
+.tapu{
+    display: flex;
+    align-items: flex-end;
+    margin-left: 15px;
+}
+
+.opacidad{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 0px;
+    cursor: pointer;
+    background-color: black;
+    background-color: rgba(0, 0, 0, 0.6);
+    
+    display: flex;
+}
+.trii{
+    width: 20px;
+    height: 20px;
+    margin-left: 265px;
+    margin-top: -40px;
+}
